@@ -9,6 +9,8 @@
 <br>Example in lecture nodes
 <br>
  ![image](https://user-images.githubusercontent.com/85152590/189181867-20a27406-c986-4866-bddb-b7f8245baa72.png)
-<br>Result of the code
+<br>Result of minimum path from A to D
 <br>
+<img width="179" alt="image" src="https://user-images.githubusercontent.com/85152590/189186821-40e332e7-34e5-46cd-baac-ce39651ab9a7.png">
+
 
